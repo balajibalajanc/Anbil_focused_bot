@@ -1,4 +1,4 @@
-# Jade_Focused_bot
+# Anbil_Focused_bot
 It is a targeted online assistant that assists in capturing transcripts, action items, and sentiment analysis on all generic meetings held via the internet while also managing schedules.
 ### Features
 
